@@ -1,0 +1,21 @@
+_id: req_b53de9f6ff1f40cb893bcba2dc70f1c4
+type: Request
+parentId: fld_7d8e2082ccef44dcbcd52512c8a82716
+modified: 1664415385876
+created: 1664415216504
+url: http://localhost:8000/api/weborder/top/init
+name: Top Init
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664415216504
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_e408480cc3fa45d3b539933f0a1d689c
+type: Request
+parentId: fld_5610382b04fd4109be0651a288773c0b
+modified: 1664416067230
+created: 1664415337297
+url: http://localhost:8000/api/shipment/list/init
+name: Shipment List Init
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_0ff63cde2aea44db81f8cffb5f9baf36
+    name: company_id
+    value: "1"
+    description: ""
+  - id: pair_29e73b248eb5478b9180f6174cfcf203
+    name: ""
+    value: ""
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1664415337297
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

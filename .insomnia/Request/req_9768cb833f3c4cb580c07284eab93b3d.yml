@@ -1,0 +1,25 @@
+_id: req_9768cb833f3c4cb580c07284eab93b3d
+type: Request
+parentId: fld_5610382b04fd4109be0651a288773c0b
+modified: 1665712287970
+created: 1665643138894
+url: http://localhost:8000/api/pdf/picking-list
+name: picking-list
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_8570caaa68a544d684929e7044d4529c
+    name: shipping_id[]
+    value: "6"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1665643138894
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

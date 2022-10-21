@@ -1,0 +1,29 @@
+_id: req_9a40ef79cb9e457e9530c86b33f1d191
+type: Request
+parentId: fld_e2405f0b05974e1d8b38ccdd61af1dc4
+modified: 1665739545512
+created: 1665739229189
+url: http://localhost:8000/api/weborder/orderform/init
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_063c44383f51480bb6befe8c4373d59c
+    name: item_id
+    value: "1"
+    description: ""
+  - id: pair_3fa0927000974673a056621b8683349e
+    name: company_id
+    value: "2"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1665739229189
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

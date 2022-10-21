@@ -1,0 +1,33 @@
+_id: req_a2694a1f196548a8abbe5ecf1fbab1ef
+type: Request
+parentId: fld_5610382b04fd4109be0651a288773c0b
+modified: 1665722089197
+created: 1665134634655
+url: http://localhost:8000/api/common/dropdown/list-item
+name: list item
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_546a56df2dec485bac3a5209a1ed3f7e
+    name: company_id
+    value: "2"
+    description: ""
+  - id: pair_b46d53d3155a459fadd03c85eed94884
+    name: product_type
+    value: "1"
+    description: ""
+  - id: pair_814a7a0aa7eb49b48ce73be262ef3055
+    name: customer_id[]
+    value: "1"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1664415337247
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,26 @@
+_id: req_bbcd05860d4a4178befaa317fc75a842
+type: Request
+parentId: fld_5610382b04fd4109be0651a288773c0b
+modified: 1665554889131
+created: 1665554547723
+url: http://localhost:8000/api/shipment/list/import-contact_number
+name: import-contact_number
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: '{"upload_file":"MTIzNDUsMiwzLDQsNSw2LDcsOCw5LJPNgq+Q5jEsMTEsMTIsNiwxNCwxNSwxNiwxNywxOCwxOSwyMCwyMSwyMiwyMywyNCwyNSwyNiwyNywyOCwyOSwzMCwzMSwzMiwzMywzNCwzNSwzNiwzNywzOCwzOSw0MCw0MSw0Miw0Myw0NCw0NSw0Niw0Nyw0OCw0OSw1MCw1MSw1Miw1Mw0K","shipping_list":[{"shipping_id":9,"shipping_updated_at":"2022-09-28
+    18:15:10"}]}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665554547723
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

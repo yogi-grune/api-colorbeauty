@@ -1,0 +1,37 @@
+_id: req_8320ff744de24d4194cc1d988271e110
+type: Request
+parentId: fld_e2405f0b05974e1d8b38ccdd61af1dc4
+modified: 1665743133789
+created: 1665740649949
+url: http://localhost:8000/api/weborder/addto-cart
+name: New Request
+description: ""
+method: POST
+body: {}
+parameters:
+  - id: pair_f50811cad6cb4c2fb44c561320f36440
+    name: company_id
+    value: "2"
+    description: ""
+  - id: pair_9fd7f7579b5e4b8aabf05ad37a5aa568
+    name: customer_id
+    value: "2"
+    description: ""
+  - id: pair_094f43c1a08f4763ac5461b917fbd0bf
+    name: partner_id
+    value: "0"
+    description: ""
+  - id: pair_ab176860ec514e97aa48a4eefedf1a98
+    name: item_id
+    value: "1"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1665740649949
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

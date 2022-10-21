@@ -1,0 +1,25 @@
+_id: req_1ad0d7c2ae924846a0d07c21af43d7d8
+type: Request
+parentId: fld_5610382b04fd4109be0651a288773c0b
+modified: 1665712691311
+created: 1664786514899
+url: http://localhost:8000/api/pdf/invoice
+name: invoice
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_80e4cc7080334a7a8ff2ff8b5bad5552
+    name: shipping_id[]
+    value: "6"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1665643138944
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

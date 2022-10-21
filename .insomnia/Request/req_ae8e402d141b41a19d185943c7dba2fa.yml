@@ -1,0 +1,21 @@
+_id: req_ae8e402d141b41a19d185943c7dba2fa
+type: Request
+parentId: fld_2eed60d2721d4297b5dd1050be076702
+modified: 1666175423210
+created: 1666175421729
+url: http://localhost:8000/api/weborder/history/show
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1666175421729
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

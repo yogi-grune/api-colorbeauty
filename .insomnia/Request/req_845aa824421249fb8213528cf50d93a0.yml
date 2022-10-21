@@ -1,0 +1,35 @@
+_id: req_845aa824421249fb8213528cf50d93a0
+type: Request
+parentId: fld_5610382b04fd4109be0651a288773c0b
+modified: 1665476769416
+created: 1665475245010
+url: http://localhost:8000/api/shipment/list/export-ht
+name: export-ht
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: '{"shipping_list":[{"shipping_id":9,"shipping_detail_id":5},{"shipping_id":8,"shipping_detail_id":8}]}'
+parameters:
+  - id: pair_9134089e32ac47ce935bc893e5efa930
+    name: shipping_detail_id[]
+    value: "5"
+    description: ""
+    disabled: true
+  - id: pair_296b82ac4a6f456abd1e37160b812d4a
+    name: shipping_id[]
+    value: "9"
+    description: ""
+    disabled: true
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1664415337197
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

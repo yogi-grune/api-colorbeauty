@@ -1,0 +1,38 @@
+_id: req_d3a1ecc91221423d8bbc2227d73bfdf3
+type: Request
+parentId: fld_5610382b04fd4109be0651a288773c0b
+modified: 1665721070193
+created: 1664415358177
+url: http://localhost:8000/api/shipment/list/list
+name: Shipment List List
+description: ""
+method: GET
+body:
+  mimeType: application/octet-stream
+  fileName: ""
+parameters:
+  - id: pair_be12670724ef43a6a895e65543e59f62
+    name: page
+    value: "1"
+    description: ""
+  - id: pair_4325351067b74bc79978866649c0752e
+    name: per_page
+    value: "5"
+    description: ""
+  - id: pair_8cc3ba5a91a84f96b2e153f82aa728e5
+    name: company_id
+    value: "1"
+    description: ""
+    disabled: false
+headers:
+  - name: Content-Type
+    value: application/octet-stream
+authentication: {}
+metaSortKey: -1664415358177
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
