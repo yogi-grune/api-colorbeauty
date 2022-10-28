@@ -1,0 +1,25 @@
+_id: req_c13a7020d41f431b85630534c0afbceb
+type: Request
+parentId: fld_d20ecc2c05f2490885ae30806a1008b1
+modified: 1666777832453
+created: 1666777732975
+url: http://localhost:8000/api/bill/list/init
+name: Init
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_5060b5f8f1fd4ba1a6834e8b1ca6b379
+    name: company_id
+    value: "1"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1666777732975
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,7 +1,7 @@
 _id: req_d3a1ecc91221423d8bbc2227d73bfdf3
 type: Request
 parentId: fld_5610382b04fd4109be0651a288773c0b
-modified: 1665721070193
+modified: 1666768896376
 created: 1664415358177
 url: http://localhost:8000/api/shipment/list/list
 name: Shipment List List

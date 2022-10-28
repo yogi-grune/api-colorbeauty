@@ -1,7 +1,7 @@
 _id: req_cafa996fa39a46d993787647eafae8de
 type: Request
-parentId: wrk_94f19dfa082e4623b29087c13195ccf8
-modified: 1665721790879
+parentId: fld_14ba329fd86d4df690c5de53e0548681
+modified: 1666780553890
 created: 1664440409684
 url: http://localhost:8000/api/common/dropdown/list-partner
 name: partner-list
@@ -11,7 +11,7 @@ body: {}
 parameters:
   - id: pair_c31848794abc4195bc1faf82df7c0cb1
     name: company_id
-    value: "1"
+    value: "2"
     description: ""
   - id: pair_9aae155aba1b4bd1ba508536aec6841f
     name: product_type
@@ -19,15 +19,11 @@ parameters:
     description: ""
   - id: pair_1367284ffa4d4b3aae936e725bca7b39
     name: customer_id[]
-    value: "26"
-    description: ""
-  - id: pair_8d5c53858f554bfc8c363ad110bd1268
-    name: customer_id[]
-    value: "12"
+    value: "2"
     description: ""
 headers: []
 authentication: {}
-metaSortKey: -1664415211738
+metaSortKey: -1664415319223.6094
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

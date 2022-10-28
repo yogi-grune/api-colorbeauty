@@ -1,0 +1,21 @@
+_id: req_e440d47aa27a4544bb6e0b2d19383f7a
+type: Request
+parentId: fld_148a79b8a2d84ddcb8f057e42d157a3b
+modified: 1666668518080
+created: 1666668507165
+url: http://localhost:8000/api/weborder/registration/init
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1666668507165
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

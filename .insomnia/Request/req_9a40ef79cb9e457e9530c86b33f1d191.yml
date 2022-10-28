@@ -1,10 +1,10 @@
 _id: req_9a40ef79cb9e457e9530c86b33f1d191
 type: Request
 parentId: fld_e2405f0b05974e1d8b38ccdd61af1dc4
-modified: 1665739545512
+modified: 1666615422720
 created: 1665739229189
 url: http://localhost:8000/api/weborder/orderform/init
-name: New Request
+name: Init
 description: ""
 method: GET
 body: {}

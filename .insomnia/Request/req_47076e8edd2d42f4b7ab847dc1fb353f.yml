@@ -1,0 +1,21 @@
+_id: req_47076e8edd2d42f4b7ab847dc1fb353f
+type: Request
+parentId: fld_985395d0eb4b475d955f11ddecbf0ddb
+modified: 1666667872359
+created: 1666667860605
+url: "http://localhost:8000/api/weborder/approval/init "
+name: Init
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1666667860605
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,37 @@
+_id: req_0d25bed9bc224fb797fc9e7cd076df7c
+type: Request
+parentId: fld_6a60ad8822874f75ad4805afff3cfca2
+modified: 1666780777184
+created: 1666615493748
+url: http://localhost:8000/api/sales/list/list
+name: List
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a55f8a647554452992cca0eca855c154
+    name: current_page
+    value: "1"
+    description: ""
+  - id: pair_d30c8a8274014f54a4547fa25e0bc7dd
+    name: per_page
+    value: "5"
+    description: ""
+  - id: pair_a2c59ba2671544b7936e8b66dc7f4d50
+    name: company_id
+    value: "1"
+    description: ""
+  - id: pair_cfb98659114c473b876828012cb19572
+    name: payment_method[]
+    value: "2"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1666615493748
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
