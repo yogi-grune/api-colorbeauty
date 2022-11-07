@@ -1,11 +1,16 @@
 _id: env_046c5ec8fcabda1297c58784b65ea1fca81eab9e
 type: Environment
 parentId: wrk_94f19dfa082e4623b29087c13195ccf8
-modified: 1658310427099
+modified: 1667792668743
 created: 1658310427099
 name: Base Environment
-data: {}
-dataPropertyOrder: null
+data:
+  Referer: http://localhost:5000
+  X-XSRF-TOKEN: eyJpdiI6IlRaTFpQRU0wRk1mUzh1NWphMXhDS3c9PSIsInZhbHVlIjoiL2dwMzMvUlZHN01nQUNCT2NJUlpxWE1WT0dXeFlnTHIzWWsrcXRkUDF4dzMvYnY2WmQ0bzFjamR2VHpOc2JiVTJQUFRyYU9jejExUWsxcnozc2doMEVtem1nTXZSU1pBQWthdkF5N2V6TEt1aDcwZlV3YjVNYmRDSW52OC9LOVgiLCJtYWMiOiI5NWI3OTMzZGZmOWFmOTcxMTI3ZDU3ZjExYjUxMTFlMDY5OTUwNmFiNmE1NmZmNzNkMzE3N2FkOWMwMGRjYzExIiwidGFnIjoiIn0
+dataPropertyOrder:
+  "&":
+    - Referer
+    - X-XSRF-TOKEN
 color: null
 isPrivate: false
 metaSortKey: 1658310427099

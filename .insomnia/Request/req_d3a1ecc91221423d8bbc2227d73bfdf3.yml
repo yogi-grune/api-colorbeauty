@@ -1,7 +1,7 @@
 _id: req_d3a1ecc91221423d8bbc2227d73bfdf3
 type: Request
-parentId: fld_5610382b04fd4109be0651a288773c0b
-modified: 1666768896376
+parentId: fld_33e95b1c84824a65b927c5daccc73983
+modified: 1667793128588
 created: 1664415358177
 url: http://localhost:8000/api/shipment/list/list
 name: Shipment List List
@@ -21,14 +21,20 @@ parameters:
     description: ""
   - id: pair_8cc3ba5a91a84f96b2e153f82aa728e5
     name: company_id
-    value: "1"
+    value: "2"
     description: ""
     disabled: false
 headers:
-  - name: Content-Type
-    value: application/octet-stream
+  - id: pair_5db0b46ba1f44197bcb052b62ccd649a
+    name: Referer
+    value: "{{ _.Referer }}"
+    description: ""
+  - id: pair_b83f2bf6efeb47ba8f3cf5b4736117d1
+    name: X-XSRF-TOKEN
+    value: "{{ _.test }}"
+    description: ""
 authentication: {}
-metaSortKey: -1664415358177
+metaSortKey: -1667789519027
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

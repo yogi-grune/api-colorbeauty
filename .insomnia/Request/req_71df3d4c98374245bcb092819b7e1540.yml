@@ -1,7 +1,7 @@
 _id: req_71df3d4c98374245bcb092819b7e1540
 type: Request
 parentId: fld_2eed60d2721d4297b5dd1050be076702
-modified: 1666238697447
+modified: 1667372448027
 created: 1666170261637
 url: http://localhost:8000/api/weborder/history/show
 name: New Request
@@ -11,7 +11,15 @@ body: {}
 parameters:
   - id: pair_5c448b6a3371479a8034a7e23f72c0a3
     name: company_id
-    value: "1"
+    value: "2"
+    description: ""
+  - id: pair_c80d7b68780c43a4abddffee69d98083
+    name: partner_id
+    value: "2"
+    description: ""
+  - id: pair_bc7d29655639434b9abda325a057598b
+    name: customer_id
+    value: "2"
     description: ""
 headers: []
 authentication: {}

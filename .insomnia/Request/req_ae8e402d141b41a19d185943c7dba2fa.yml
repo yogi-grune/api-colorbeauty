@@ -1,9 +1,11 @@
 _id: req_ae8e402d141b41a19d185943c7dba2fa
 type: Request
 parentId: fld_2eed60d2721d4297b5dd1050be076702
-modified: 1666175423210
+modified: 1667372437967
 created: 1666175421729
-url: http://localhost:8000/api/weborder/history/show
+url: "
+  http://localhost:8000/api/weborder/history/show?company_id=2&customer_id=2&pa\
+  rtner_id=2"
 name: New Request
 description: ""
 method: GET

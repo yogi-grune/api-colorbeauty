@@ -1,14 +1,27 @@
 _id: req_4ee84677db374915bfef12fc74ce8726
 type: Request
 parentId: fld_985395d0eb4b475d955f11ddecbf0ddb
-modified: 1666667938402
+modified: 1667182580708
 created: 1666667896557
 url: http://localhost:8000/api/weborder/approval/list-customer
 name: List
 description: ""
 method: GET
 body: {}
-parameters: []
+parameters:
+  - id: pair_42815b5e07bf436c8ca0d106ff8bd3fb
+    name: company_id[]
+    value: "1"
+    description: ""
+  - id: pair_84b2ef0b78744f55b97e1e089e335961
+    name: company_id[]
+    value: "2"
+    description: ""
+    disabled: true
+  - id: pair_b8dfeee12db742a08d332e1aac8385e3
+    name: approval_type
+    value: "1"
+    description: ""
 headers: []
 authentication: {}
 metaSortKey: -1666667896557
