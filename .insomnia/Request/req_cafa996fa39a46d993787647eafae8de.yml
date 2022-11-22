@@ -1,7 +1,7 @@
 _id: req_cafa996fa39a46d993787647eafae8de
 type: Request
 parentId: fld_14ba329fd86d4df690c5de53e0548681
-modified: 1666780553890
+modified: 1669113845274
 created: 1664440409684
 url: http://localhost:8000/api/common/dropdown/list-partner
 name: partner-list
@@ -17,6 +17,7 @@ parameters:
     name: product_type
     value: "1"
     description: ""
+    disabled: true
   - id: pair_1367284ffa4d4b3aae936e725bca7b39
     name: customer_id[]
     value: "2"

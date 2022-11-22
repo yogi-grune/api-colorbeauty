@@ -1,14 +1,26 @@
 _id: req_02013f44a4604079a7400b5f8a0391d2
 type: Request
 parentId: fld_985395d0eb4b475d955f11ddecbf0ddb
-modified: 1666667893071
+modified: 1669084344908
 created: 1666667880526
 url: http://localhost:8000/api/weborder/approval/show
 name: Show
 description: ""
 method: GET
 body: {}
-parameters: []
+parameters:
+  - id: pair_427c12031e494a6fbd3c37a023c37b5a
+    name: company_id
+    value: "2"
+    description: ""
+  - id: pair_89e990f32c7a4a5da6c9daccdcd6fd6c
+    name: approval_type
+    value: "2"
+    description: ""
+  - id: pair_cc4ba48f9e654e218268456a2b69a914
+    name: user_application_id
+    value: "1"
+    description: ""
 headers: []
 authentication: {}
 metaSortKey: -1666667880526
